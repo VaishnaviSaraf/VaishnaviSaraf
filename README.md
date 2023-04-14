@@ -29,3 +29,10 @@ Here are some ideas to get you started:
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,java)
 #### Databases
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VaishnaviSaraf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviSaraf&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviSaraf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# Github Trophies:
+![](https://github-profile-trophy.vercel.app/?username=VaishnaviSaraf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
