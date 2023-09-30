@@ -30,6 +30,10 @@ Here are some ideas to get you started:
 #### Databases
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)
 
+## Badges:
+[![An image of @vsaraf06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vsaraf06)](https://holopin.io/@vsaraf06)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VaishnaviSaraf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviSaraf&theme=tokyonight&hide_border=false)<br/>
